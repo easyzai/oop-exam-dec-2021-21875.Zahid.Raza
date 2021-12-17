@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "question1": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "sqlDebugging": true,
+      "nativeDebugging": true,
+      "jsWebView2Debugging": false
+    }
+  }
+}

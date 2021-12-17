@@ -1,0 +1,66 @@
+﻿Question 2
+Write notes on the following terms: 
+
+
+        1.	inheritance
+Inheritance is the mechanism by which one class gets the properties of another class.
+For example, a child inherits the characteristics of a parent. Inheritance allows you to reuse  fields and methods of  existing classes.
+Therefore, inheritance facilitates reusability and is an important concept in OOP.
+   
+                 Class C <====== Class A =====> Class B
+                                  ||
+                                  ||
+                                Class D
+
+===============================================================
+ 
+        2.	polymorphism
+  Answer:
+         In C #, polymorphism means the possibility of taking multiple forms and is one of the main  concepts of object-oriented programming
+after encapsulation and inheritance.This allows you to call a method of a derived class from a base class reference at run time.
+Classes have the ability  to provide different implementations of methods that are called with the same name.
+The most common use of polymorphism in OOP occurs when you use a parent class reference  to reference a child class object.
+In general, polymorphism is a combination of two words, poly, and the other is a morphs.
+There are two types of polymorphism in C #: run-time polymorphism and compile-time polymorphism.
+
+
+
+===============================================================
+
+        3.	static member variables and methods
+Answer: 
+ Static variables and methods belong to a class and are called by class name instead of using object variables like ClassName.Only one copy of a static variable or method for the entire class.
+ For example, the main method is static because there is only one main method.
+A static method (or static function) is a method that is defined as a member of an object, but can be accessed directly through the constructor
+ of an API object rather than  an object instance created through a constructor.
+
+
+
+===============================================================
+   
+        4.	interfaces
+Answer:
+Interfaces are one way to achieve run-time polymorphism in C #. An interface is a collection of property and method declarations.
+An interface is a type declaration like a C # class or structere. The interface itself does not implement a member.
+For example, include actions from multiple sources in a class. This feature is important in C # because the language does not support multiple inheritance from classes.
+
+
+==================================================================
+
+       5.	abstract classes
+Answer:
+An abstract class is a template definition of methods and variables in a class (category of objects) that contains one or more abstract methods.
+Abstract classes can be used in all Object-oriented-programming(OOP) languanges.
+In this example, Bike is an abstract class that contains only one abstract method execution. Its implementation is provided by the Honda class.
+
+
+
+==============================================================
+
+
+
+ 
+
+
+
+

@@ -1,0 +1,11 @@
+﻿a)	What does it mean to declare a class sealed?
+Answer: 
+        A C# sealed class is a class that cannot be inherited from any class but can be instantiated.
+The design purpose of the sealed class is to show that the class is specialized and does not need to 
+be extended to provide additional functionality through inheritance to override its behavior.
+
+
+
+
+===============================                ========================================
+                         ===========================================
